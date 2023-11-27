@@ -1,0 +1,135 @@
+
+#contactForm{
+  background-color:#fafafa;
+
+}
+
+
+.corb{
+  font-size: 1em;
+  
+}
+
+#contact{
+  color: black;
+
+}
+
+#companyName{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#inputForm{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#years{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#eadress{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#postCode{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 300px;
+  height: 56px; 
+}
+#postSearch{
+  width: 50px;
+  height: 30px;
+}
+#pref{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#address2{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#address3{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+#ask{
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: #707070;
+  border-bottom-style: solid;
+  background-color: #fafafa;
+  width: 400px;
+  height: 56px; 
+}
+
+#savedBtn{
+  padding: 5px;
+  width: 30;
+  height: 5px;
+}
+#backBtn{
+  padding: 5px;
+  width: 30px;
+  height: 5px;
+}
+
+#botan{
+ display: flex;
+}
